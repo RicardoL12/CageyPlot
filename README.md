@@ -1,4 +1,3 @@
-# Code Refactor Starter Code
 Horiseon
 Welcome to the Horiseon project! This project is a website that showcases the digital marketing services offered by Horiseon, including Search Engine Optimization (SEO), Online Reputation Management, and Social Media Marketing.
 
